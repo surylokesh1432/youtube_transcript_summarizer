@@ -1,0 +1,9 @@
+streamlit
+dotenv
+os
+google.generativeai
+YouTubeTranscriptApi, TranscriptsDisabled
+Translator
+gTTS
+base64
+asyncio
